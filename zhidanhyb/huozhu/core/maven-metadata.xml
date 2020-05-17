@@ -3,7 +3,7 @@
   <groupId>zhidanhyb.huozhu</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.2.19-c</release>
+    <release>1.0.2.20-c</release>
     <versions>
       <version>1.0.6-c</version>
       <version>1.0.0-c</version>
@@ -28,7 +28,8 @@
       <version>1.0.2.17-c</version>
       <version>1.0.2.18-c</version>
       <version>1.0.2.19-c</version>
+      <version>1.0.2.20-c</version>
     </versions>
-    <lastUpdated>20200517020605</lastUpdated>
+    <lastUpdated>20200517042536</lastUpdated>
   </versioning>
 </metadata>
